@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NationalParks</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="parks">Parks</string>
+    <string name="map">Map</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_text">Default Text</string>
+    <string name="park_image_descriptor">Park Image</string>
+    <string name="description">Description</string>
+    <string name="activities">Activities</string>
+    <string name="topics">Topics</string>
+    <string name="entrance_fees">Entrance Fees</string>
+    <string name="operating_hours">Operating Hours</string>
+    <string name="directions">Directions</string>
+    <string name="info_not_available">Information Not Available</string>
+    <string name="hint_search">Enter State Code: WA, OR, NY</string>
+    <string name="search_button">search_button</string>
+</resources>
